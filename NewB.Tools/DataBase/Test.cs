@@ -8,5 +8,6 @@ namespace DataBase
 {
     class Test
     {
+        private string strTest = "";
     }
 }
